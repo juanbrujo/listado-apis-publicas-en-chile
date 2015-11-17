@@ -23,6 +23,8 @@
 
 ### Geolocalización
 
+- [API Planos.cl](http://apiplanos.amarillas.cl/): API Planos.cl de hibu está conformada por clases desarrolladas en lenguaje Javascript.
+
 ### Redes Sociales
 
 
