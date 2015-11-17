@@ -26,7 +26,7 @@
 
 ### Sistemas de Alerta
 
-- [Sismos Chile](http://jaimeguaman.opendata.junar.com/datastreams/75075/sismos-chile/): Últimos sismos en Chile
+- [Sismos Chile](http://jaimeguaman.opendata.junar.com/developers/): Últimos sismos en Chile
 
 ### Mapas / Geocodificación
 
