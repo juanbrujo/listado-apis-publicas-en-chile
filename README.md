@@ -10,6 +10,7 @@
 - [API Energía Abierta - Comisión Nacional de Energía] (http://datos.energiaabierta.cne.cl/developers): API permite el acceso directo a los datos publicados en el sitio de datos abiertos de Comision Nacional de Energía. 
 - [API Datos Peñalolen - Municipalidad de Peñalolen](http://datos.penalolen.cl/developers/): API que permite el acceso directo a los datos publicados en el sitio de datos abiertos de Peñalolén.
 - [API Datos Providencia - Municipalidad de Providencia](http://datos.providencia.cl/developers/): API que permite el acceso directo a los datos publicados en el sitio de datos abiertos de la Municipalidad de Providencia.
+- [Web service de Ley Chile - Biblioteca del Congreso de Chile (XML)](http://llevatelo.bcn.cl/Widget?LCHILE=1): Web service de Ley Chile para desarrolladores.
 
 
 ### Economía
