@@ -24,6 +24,10 @@
 
 ### Clima
 
+### Sistemas de Alerta
+
+- [Sismos Chile](http://jaimeguaman.opendata.junar.com/datastreams/75075/sismos-chile/): Últimos sismos en Chile
+
 ### Mapas / Geocodificación
 
 - [API Planos.cl](http://apiplanos.amarillas.cl/): API Planos.cl de hibu está conformada por clases desarrolladas en lenguaje Javascript.
