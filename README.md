@@ -22,9 +22,10 @@
 
 ### Clima
 
-### Geolocalización
+### Mapas / Geocodificación
 
 - [API Planos.cl](http://apiplanos.amarillas.cl/): API Planos.cl de hibu está conformada por clases desarrolladas en lenguaje Javascript.
+- [API de Mapas y Geocodificación de Mapcity](http://api.mapcity.com/docs/tutorial.php): La API de MapCity es una extensión de Openlayers y ExtCore. Los tipos básicos de la API y los controles son derivados de los tipos y controles de OpenLayers, por lo tanto la mayoría de las funciones de OpenLayers aplican a las funciones de la API. 
 
 ### Redes Sociales
 
