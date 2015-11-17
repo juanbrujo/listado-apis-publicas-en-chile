@@ -2,10 +2,11 @@
 
 *Listado de API's Públicas para distintos tipos de servicios digitales nacionales*
 
-### Servicios Públicos
+### Servicios Públicos / Gobierno
 
 - [API Mercado Público](http://api.mercadopublico.cl/): Todo lo que necesitas es estar conectado con los servicios de información disponibles en api.mercadopublico.cl para crear notificaciones y estar siempre actualizado de los negocios con el Estado.
 - [API Portal ChileAtiende] (https://www.chileatiende.cl/desarrolladores): API del Portal de Servicios del Estado - ChileAtiende
+- [Plataforma Ley de Lobby] (https://www.leylobby.gob.cl/docs.html) La API de la plataforma Ley de Lobby implementada para el Gobierno de Chile, es la interfaz para programadores que permite integrar los contenidos de este portal en tu sitio web.
 
 
 ### Economía
@@ -23,9 +24,5 @@
 ### Geolocalización
 
 ### Redes Sociales
-
-### Politica y transparencia 
-
-- [API Ley Nº20.730, Ley de lobby] (https://www.leylobby.gob.cl/docs.html) API de la plataforma Ley de Lobby.
 
 
