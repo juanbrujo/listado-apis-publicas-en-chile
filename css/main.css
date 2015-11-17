@@ -643,9 +643,20 @@ header nav ul li a.bordered {
   display: none;
 }
 
+.content h3 {
+  margin-top: 1em;
+}
+
+.content h4 {
+  color: #222;
+}
 .content ul {
   margin: 1em 2em;
 }
+  .content ul li {
+    margin-bottom: .5em;
+  }
   .content ul li a {
     font-weight: bold;
+    color: #222;
   }
