@@ -11,6 +11,7 @@
 - [API Portal ChileAtiende](https://www.chileatiende.cl/desarrolladores): API del Portal de Servicios del Estado - ChileAtiende
 - [Plataforma Ley de Lobby](https://www.leylobby.gob.cl/docs.html) La API de la plataforma Ley de Lobby implementada para el Gobierno de Chile, es la interfaz para programadores que permite integrar los contenidos de este portal en tu sitio web.
 - [API Energía Abierta - Comisión Nacional de Energía](http://datos.energiaabierta.cne.cl/developers): API permite el acceso directo a los datos publicados en el sitio de datos abiertos de Comision Nacional de Energía. 
+- [API Comisión Nacional de Energía](http://api.cne.cl/): Provee el público acceso a la información que se genera dentro de la CNE considerando sus distintos sistemas de información. Usado en [Bencina en línea](http://www.bencinaenlinea.cl/)
 - [API Datos Peñalolen - Municipalidad de Peñalolen](http://datos.penalolen.cl/developers/): API que permite el acceso directo a los datos publicados en el sitio de datos abiertos de Peñalolén.
 - [API Datos Providencia - Municipalidad de Providencia](http://datos.providencia.cl/developers/): API que permite el acceso directo a los datos publicados en el sitio de datos abiertos de la Municipalidad de Providencia.
 
