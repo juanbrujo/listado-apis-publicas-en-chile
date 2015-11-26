@@ -27,20 +27,26 @@
 - [Flow](https://www.flow.cl/apiFlow.php): Flow es una plataforma de pagos online que te permite pagar y recibir pagos de cualquier persona usando tarjetas de credito o débito
 
 
-
 ### Sistemas de Alerta
 
 - [Sismos Chile](http://jaimeguaman.opendata.junar.com/developers/): Últimos sismos en Chile
+
 
 ### Mapas / Geocodificación
 
 - [API Planos.cl](http://apiplanos.amarillas.cl/): API Planos.cl de hibu está conformada por clases desarrolladas en lenguaje Javascript.
 - [API de Mapas y Geocodificación de Mapcity](http://api.mapcity.com/docs/tutorial.php): La API de MapCity es una extensión de Openlayers y ExtCore. Los tipos básicos de la API y los controles son derivados de los tipos y controles de OpenLayers, por lo tanto la mayoría de las funciones de OpenLayers aplican a las funciones de la API. 
 
+
 ### Redes Sociales
+- 
+
 
 ### Clima
+- 
 
+### Otros
+- [Compras Transparentes](http://www.comprastransparentes.cl/api): Desarrollada en Falcon y Python, contiene todos los detalles de la API de Compras Transparentes que permite explorar las transacciones entre el Estado de Chile y las empresas, las cuales se efectúan a través de la plataforma de compras públicas.
 
 ---
 
