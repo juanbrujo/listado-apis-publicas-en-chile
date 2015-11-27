@@ -14,7 +14,7 @@
 - [API Comisión Nacional de Energía](http://api.cne.cl/): Provee el público acceso a la información que se genera dentro de la CNE considerando sus distintos sistemas de información. Usado en [Bencina en línea](http://www.bencinaenlinea.cl/)
 - [API Datos Peñalolen - Municipalidad de Peñalolen](http://datos.penalolen.cl/developers/): API que permite el acceso directo a los datos publicados en el sitio de datos abiertos de Peñalolén.
 - [API Datos Providencia - Municipalidad de Providencia](http://datos.providencia.cl/developers/): API que permite el acceso directo a los datos publicados en el sitio de datos abiertos de la Municipalidad de Providencia.
-
+- [Compras Transparentes](http://www.comprastransparentes.cl/api): Desarrollada en Falcon y Python, contiene todos los detalles de la API de Compras Transparentes que permite explorar las transacciones entre el Estado de Chile y las empresas, las cuales se efectúan a través de la plataforma de compras públicas.
 
 ### Economía
 
@@ -45,8 +45,6 @@
 ### Clima
 - 
 
-### Otros
-- [Compras Transparentes](http://www.comprastransparentes.cl/api): Desarrollada en Falcon y Python, contiene todos los detalles de la API de Compras Transparentes que permite explorar las transacciones entre el Estado de Chile y las empresas, las cuales se efectúan a través de la plataforma de compras públicas.
 
 ---
 
