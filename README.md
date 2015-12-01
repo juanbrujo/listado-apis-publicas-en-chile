@@ -44,7 +44,7 @@
 
 
 ### Clima
-- 
+- [API Tiempo Meteored.cl](http://api.meteored.cl/): La Api de Meteored.cl es una aplicación con la que usted puede obtener la predicción meteorológica de las localidades que desee a diario.
 
 
 ---
