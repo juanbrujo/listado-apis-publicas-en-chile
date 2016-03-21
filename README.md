@@ -16,6 +16,9 @@
 - [API Datos Peñalolen - Municipalidad de Peñalolen](http://datos.penalolen.cl/developers/): API que permite el acceso directo a los datos publicados en el sitio de datos abiertos de Peñalolén.
 - [API Datos Providencia - Municipalidad de Providencia](http://datos.providencia.cl/developers/): API que permite el acceso directo a los datos publicados en el sitio de datos abiertos de la Municipalidad de Providencia.
 - [Compras Transparentes](http://www.comprastransparentes.cl/api): Desarrollada en Falcon y Python, contiene todos los detalles de la API de Compras Transparentes que permite explorar las transacciones entre el Estado de Chile y las empresas, las cuales se efectúan a través de la plataforma de compras públicas.
+- [ChileCompra](http://datosabiertos.chilecompra.cl/developers/):
+La API permite el acceso directo a los datos publicados en el portal de datos abiertos de ChileCompra desde tu aplicación. Usa una interfaz RESTful y retorna los datos en formato JSON.
+Las vistas invocadas a través de la API proveen un acceso estándar online a datos contenidos en páginas HTML, XLS, CSV y otros archivos similares disponibles en Internet.
 
 ### Economía
 
