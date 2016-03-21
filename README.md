@@ -4,6 +4,7 @@
 
 [Enlace](http://juanbrujo.github.io/listado-apis-publicas-en-chile/)
 
+
 ### Servicios Públicos / Gobierno
 
 - [API Biblioteca del Congreso](http://www.leychile.cl/Consulta/legislacion_abierta_web_service) Leyes, Proyectos de Ley y Normas
@@ -19,11 +20,15 @@
 - [ChileCompra](http://datosabiertos.chilecompra.cl/developers/):
 La API permite el acceso directo a los datos publicados en el portal de datos abiertos de ChileCompra desde tu aplicación. Usa una interfaz RESTful y retorna los datos en formato JSON.
 Las vistas invocadas a través de la API proveen un acceso estándar online a datos contenidos en páginas HTML, XLS, CSV y otros archivos similares disponibles en Internet.
+- [Portal de Datos Públicos](http://es.wiki.junar.com/index.php/Recursos_datos_gob_cl_API)
+La versión actual de la API es 1.0. La mayoría de los métodos retorna sus resultados en formato JSON, excepto el metodo invoke donde puede elegirse entre varios formatos de salida. Cada key obtenida para la API del Portal de Datos Públicos del Gobierno de Chile está limitada a 10.000 reqs/mes y 1 req/seg.
+
 
 ### Economía
 
 - [Indicadores económicos diarios](http://mindicador.cl/): Este es un servicio open source (web service) que entrega los principales indicadores económicos para Chile en formato JSON. Tanto los indicadores diarios como históricos para que desarrolladores puedan utilizarlos en sus aplicaciones o sitios web.
 - [API SBIF](http://api.sbif.cl/index.html): La API de SBIF permite obtener información de manera directa desde la base de datos del sitio web utilizando los servicios web provistos en esta plataforma.
+
 
 ### Medios de Pago
 
