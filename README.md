@@ -20,6 +20,8 @@
 - [ChileCompra](http://datosabiertos.chilecompra.cl/developers/): La API permite el acceso directo a los datos publicados en el portal de datos abiertos de ChileCompra desde tu aplicación. Usa una interfaz RESTful y retorna los datos en formato JSON. Las vistas invocadas a través de la API proveen un acceso estándar online a datos contenidos en páginas HTML, XLS, CSV y otros archivos similares disponibles en Internet.
 - [Portal de Datos Públicos](http://es.wiki.junar.com/index.php/Recursos_datos_gob_cl_API): La versión actual de la API es 1.0. La mayoría de los métodos retorna sus resultados en formato JSON, excepto el metodo invoke donde puede elegirse entre varios formatos de salida. Cada key obtenida para la API del Portal de Datos Públicos del Gobierno de Chile está limitada a 10.000 reqs/mes y 1 req/seg.
 - [Seguimiento de pedidos de Correos de Chile](https://github.com/josemontesp/correos-chile-npm): Módulo npm para hacer el seguimiento de uno o más pedidos de Correos de Chile.
+- [Correos Chile Tracking API](https://www.aftership.com/docs/correos-chile-tracking-api): AfterShip Restful JSON APIs and webhooks allow developers to add Correos Chile tracking function easily. Support APIs Client Libraries for PHP, Java, Node.js, Python, .NET, Ruby.
+- [Correos Chile API](https://www.easypost.com/correos-chile-api.html): EasyPost is a multi-carrier shipping solution. The EasyPost API is one integration point for 60+ carriers, including Correos Chile.
 - [Feriados en Chile 2017](https://feriados-cl-api.herokuapp.com/): API con info de feriados en Chile año 2017.
 
 
