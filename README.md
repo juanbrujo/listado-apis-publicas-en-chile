@@ -35,6 +35,7 @@
 - [Buda](https://api.buda.com/): La API REST de Buda, traider de Bitcoins en Chile.
 - [BCI](https://developers.bci.cl/): API públicas del Banco de Crédito e Inversiones. Permite obtener información sobre cuentas, indicadores económicos, información del banco, entre otros.
 
+
 ### Medios de Pago
 
 - [Khipu](https://khipu.com/page/api-para-integradores): API REST para crear cobros y recibir pagos con Khipu.
@@ -52,11 +53,13 @@
 - [API de Mapas y Geocodificación de Mapcity](http://api.mapcity.com/docs/tutorial.php): La API de MapCity es una extensión de Openlayers y ExtCore. Los tipos básicos de la API y los controles son derivados de los tipos y controles de OpenLayers, por lo tanto la mayoría de las funciones de OpenLayers aplican a las funciones de la API. 
 
 
-### Redes Sociales
-- 
+### Entretención y ocio
+
+- [Horóscopo Yolanda Sultana](https://adderou.cl/api-horoscopo-de-yolanda-sultana/): Obtiene el horóscopo del día desde [Login.cl](http://www.login.cl/). No hay forma de obtener horóscopos anteriores, porque es de mala suerte.
 
 
 ### Clima
+
 - [API Tiempo Meteored.cl](http://api.meteored.cl/): La Api de Meteored.cl es una aplicación con la que usted puede obtener la predicción meteorológica de las localidades que desee a diario.
 
 
