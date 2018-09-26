@@ -24,6 +24,7 @@
 - [Correos Chile API](https://www.easypost.com/correos-chile-api.html): EasyPost is a multi-carrier shipping solution. The EasyPost API is one integration point for 60+ carriers, including Correos Chile.
 - [Feriados en Chile 2017](https://feriados-cl-api.herokuapp.com/): API con info de feriados en Chile año 2017.
 - [Feriados Legales en Chile](https://www.feriadosapp.com/api/): API sin restricciones y costos, que contiene todos los feriados legales de Chile.
+- [Turnos de Farmacia](http://datos.gob.cl/dataset/farmacias-en-chile): URL para obtener en formato JSON el listado de farmacias del país y sus turnos nocturnos legales, directamente desde FARMANET del Ministerio de Salud.
 
 
 ### Economía
@@ -33,6 +34,7 @@
 - [API SBIF](http://api.sbif.cl/index.html): La API de SBIF permite obtener información de manera directa desde la base de datos del sitio web utilizando los servicios web provistos en esta plataforma.
 - [Buda.com](https://api.buda.com/): La API REST de [Buda.com](https://www.buda.com/), exchange de criptomonedas por moneda local en Chile, Colombia, Perú y Argentina. Permite el manejo de ordenes de compra/venta, abonos/retiros e información del mercado en tiempo real.
 - [BCI](https://developers.bci.cl/): API públicas del Banco de Crédito e Inversiones. Permite obtener información sobre cuentas, indicadores económicos, información del banco, entre otros.
+
 
 ### Medios de Pago
 
@@ -52,11 +54,13 @@
 - [API de Mapas y Geocodificación de Mapcity](http://api.mapcity.com/docs/tutorial.php): La API de MapCity es una extensión de Openlayers y ExtCore. Los tipos básicos de la API y los controles son derivados de los tipos y controles de OpenLayers, por lo tanto la mayoría de las funciones de OpenLayers aplican a las funciones de la API. 
 
 
-### Redes Sociales
-- 
+### Entretención y ocio
+
+- [Horóscopo Yolanda Sultana](https://adderou.cl/api-horoscopo-de-yolanda-sultana/): Obtiene el horóscopo del día desde [Login.cl](http://www.login.cl/). No hay forma de obtener horóscopos anteriores, porque es de mala suerte.
 
 
 ### Clima
+
 - [API Tiempo Meteored.cl](http://api.meteored.cl/): La Api de Meteored.cl es una aplicación con la que usted puede obtener la predicción meteorológica de las localidades que desee a diario.
 
 
