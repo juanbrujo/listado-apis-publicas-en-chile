@@ -67,6 +67,9 @@
 - [API Tiempo Meteored.cl](http://api.meteored.cl/): La Api de Meteored.cl es una aplicación con la que usted puede obtener la predicción meteorológica de las localidades que desee a diario.
 
 
+### Salud
+- [WS para gestión de toma de muestras](https://tomademuestras.apidocs.openagora.org/): Caso de uso: Implementación de ejemplo de conexión y consumo de APIs REST para seguimiento y trazabilidad de muestras para SARS-COV-2 del Ministerio de Salud. [Enlace](https://github.com/jdeloshoyos/api-covid-minsal)
+
 ---
 
 #### Cómo Aportar:
