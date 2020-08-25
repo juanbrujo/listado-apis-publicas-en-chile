@@ -43,6 +43,7 @@
 
 - [Khipu](https://khipu.com/page/api-para-integradores): API REST para crear cobros y recibir pagos con Khipu.
 - [Flow](https://www.flow.cl/apiFlow.php): Flow es una plataforma de pagos online que te permite pagar y recibir pagos de cualquier persona usando tarjetas de credito o débito.
+- [Kushki](https://docs.kushkipagos.com/api): Vende de forma global y recibe dinero en tu moneda local. Conecta distintos medios de pago en cada país con una sola integración.
 
 
 ### Sistemas de Alerta
@@ -67,6 +68,9 @@
 - [API Tiempo Meteored.cl](http://api.meteored.cl/): La Api de Meteored.cl es una aplicación con la que usted puede obtener la predicción meteorológica de las localidades que desee a diario.
 - [JSON Calidad del Aire Chile](https://sinca.mma.gob.cl/index.php/json/listadomapa2k19/): El Sistema de Información Nacional de Calidad del Aire provee este JSON donde muestran información en tiempo real de las estaciones de todo el país.
 
+### Otros
+
+- [🇨🇱 Chilean Birds 🐦 ](https://aves.ninjas.cl/api/birds): API con información sobre Aves de Chile usando datos de [Buscaves.cl](http://buscaves.cl/).
 
 ---
 
