@@ -22,7 +22,6 @@
 - [Seguimiento de pedidos de Correos de Chile](https://github.com/josemontesp/correos-chile-npm): Módulo npm para hacer el seguimiento de uno o más pedidos de Correos de Chile.
 - [Correos Chile Tracking API](https://www.aftership.com/docs/correos-chile-tracking-api): AfterShip Restful JSON APIs and webhooks allow developers to add Correos Chile tracking function easily. Support APIs Client Libraries for PHP, Java, Node.js, Python, .NET, Ruby.
 - [Correos Chile API](https://www.easypost.com/correos-chile-api.html): EasyPost is a multi-carrier shipping solution. The EasyPost API is one integration point for 60+ carriers, including Correos Chile.
-- [Feriados en Chile 2017](https://feriados-cl-api.herokuapp.com/): API con info de feriados en Chile año 2017.
 - [Feriados Legales en Chile](https://www.feriadosapp.com/api/): API sin restricciones y costos, que contiene todos los feriados legales de Chile.
 - [Turnos de Farmacia](http://datos.gob.cl/dataset/farmacias-en-chile): URL para obtener en formato JSON el listado de farmacias del país y sus turnos nocturnos legales, directamente desde FARMANET del Ministerio de Salud.
 
@@ -49,6 +48,7 @@
 ### Sistemas de Alerta
 
 - [Sismos Chile](https://api.gael.cl/general/public/sismos): Últimos sismos en Chile.
+- [API Sismología U. de Chile.](https://e.xor.cl/posts/apis/#api-sismolog%C3%ADa-u-de-chile): Scrapping de la página del Centro Sismológico Nacional de la U. de Chile, que permite obtener en un formato amigable información de los sismos de cualquier fecha.
 - [Chile Alerta - Api](https://api.gael.cl/general/public/sismos): Boletines de Tsunami en Chile, Últimos sismos en Chile y Últimos sismos en países específicos y el Mundo.
 
 
@@ -60,7 +60,7 @@
 
 ### Entretención y ocio
 
-- [Horóscopo Yolanda Sultana](https://adderou.cl/api-horoscopo-de-yolanda-sultana/): Obtiene el horóscopo del día desde [Login.cl](http://www.login.cl/). No hay forma de obtener horóscopos anteriores, porque es de mala suerte.
+- [Horóscopo Yolanda Sultana](https://e.xor.cl/posts/apis/#t%C3%ADa-yoli-as-a-service-tyaas): Obtiene el horóscopo del día desde [Login.cl](http://www.login.cl/). No hay forma de obtener horóscopos anteriores, porque es de mala suerte.
 
 
 ### Clima
