@@ -37,6 +37,7 @@
 - [API SBIF](http://api.sbif.cl/index.html): La API de SBIF permite obtener información de manera directa desde la base de datos del sitio web utilizando los servicios web provistos en esta plataforma.
 - [Buda.com](https://api.buda.com/): La API REST de [Buda.com](https://www.buda.com/), exchange de criptomonedas por moneda local en Chile, Colombia, Perú y Argentina. Permite el manejo de ordenes de compra/venta, abonos/retiros e información del mercado en tiempo real.
 - [BCI](https://developers.bci.cl/): API públicas del Banco de Crédito e Inversiones. Permite obtener información sobre cuentas, indicadores económicos, información del banco, entre otros.
+- [queAFP](https://queafp.cl/api): API de datos de las AFP.
 
 
 ### Medios de Pago
