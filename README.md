@@ -73,6 +73,7 @@
 ### Otros
 
 - [🇨🇱 Chilean Birds 🐦 ](https://aves.ninjas.cl/api/birds): API con información sobre Aves de Chile usando datos de [Buscaves.cl](http://buscaves.cl/).
+- [LibreAPI](https://libreapi.cl): LibreAPI es una API multipropósito, gratuita y de código abierto que ofrece busqueda de RUTs, información meteorológica, conversión de divisas, datos económicos y más. Docs [EN](http://docs.libreapi.cl/en/)/[ES](http://docs.libreapi.cl/es/).
 
 ---
 
