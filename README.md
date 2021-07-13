@@ -76,6 +76,9 @@
 - [🇨🇱 Chilean Birds 🐦 ](https://aves.ninjas.cl/api/birds): API con información sobre Aves de Chile usando datos de [Buscaves.cl](http://buscaves.cl/).
 - [LibreAPI](https://libreapi.cl): LibreAPI es una API multipropósito, gratuita y de código abierto que ofrece busqueda de RUTs, información meteorológica, conversión de divisas, datos económicos y más. Docs [EN](http://docs.libreapi.cl/en/)/[ES](http://docs.libreapi.cl/es/).
 
+### Salud
+- [WS para gestión de toma de muestras](https://tomademuestras.apidocs.openagora.org/): Caso de uso: Implementación de ejemplo de conexión y consumo de APIs REST para seguimiento y trazabilidad de muestras para SARS-COV-2 del Ministerio de Salud. [Enlace](https://github.com/jdeloshoyos/api-covid-minsal)
+
 ---
 
 #### Cómo Aportar:
