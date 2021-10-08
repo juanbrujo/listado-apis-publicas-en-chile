@@ -39,7 +39,7 @@
 - [BCI](https://developers.bci.cl/): API públicas del Banco de Crédito e Inversiones. Permite obtener información sobre cuentas, indicadores económicos, información del banco, entre otros.
 - [queAFP](https://queafp.cl/api): API de datos de las AFP.
 - [API CMF](https://api.cmfchile.cl): API de la "Comisión para el Mercado Financiero - Bancos e Instituciones Financieras" para obtener diversos datos de indicadores financieros y reportes bancarios de Chile, tanto al día como históricos en formato JSON y XML.
-
+- [queTalMiAfp](https://www.quetalmiafp.cl/AccederCuotas): API de los valores de las coutas de las AFP, gratuita.
 
 ### Medios de Pago
 
