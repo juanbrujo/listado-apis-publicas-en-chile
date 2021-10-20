@@ -12,7 +12,7 @@
 - [API División Político Administrativa](http://apis.digital.gob.cl/dpa/): Permite obtener Regiones, Provincias y Comunas.
 - [API Portal ChileAtiende](https://www.chileatiende.gob.cl/desarrolladores): API del Portal de Servicios del Estado - ChileAtiende.
 - [Plataforma Ley de Lobby](https://www.leylobby.gob.cl/docs.html) La API de la plataforma Ley de Lobby implementada para el Gobierno de Chile, es la interfaz para programadores que permite integrar los contenidos de este portal en tu sitio web.
-- [API Energía Abierta - Comisión Nacional de Energía](http://datos.energiaabierta.cl/developers/): API permite el acceso directo a los datos publicados en el sitio de datos abiertos de Comision Nacional de Energía. 
+- [API Energía Abierta - Comisión Nacional de Energía](http://datos.energiaabierta.cl/developers/): API permite el acceso directo a los datos publicados en el sitio de datos abiertos de Comision Nacional de Energía.
 - [API Comisión Nacional de Energía](http://api.cne.cl/): Provee el público acceso a la información que se genera dentro de la CNE considerando sus distintos sistemas de información. Usado en [Bencina en línea](http://www.bencinaenlinea.cl/)
 - [API Datos Peñalolen - Municipalidad de Peñalolen](http://datos.penalolen.cl/developers/): API que permite el acceso directo a los datos publicados en el sitio de datos abiertos de Peñalolén.
 - [API Datos Providencia - Municipalidad de Providencia](http://datos.providencia.cl/developers/): API que permite el acceso directo a los datos publicados en el sitio de datos abiertos de la Municipalidad de Providencia.
@@ -25,6 +25,10 @@
 - [Feriados Legales en Chile](https://www.feriadosapp.com/api/): API sin restricciones y costos, que contiene todos los feriados legales de Chile.
 - [Turnos de Farmacia](http://datos.gob.cl/dataset/farmacias-en-chile): URL para obtener en formato JSON el listado de farmacias del país y sus turnos nocturnos legales, directamente desde FARMANET del Ministerio de Salud.
 - [API REST del Congreso](http://congresorest.appspot.com/): Servicio Open Source y totalmente gratuito que mapea el contenido generado por el congreso para que desarrolladores puedan construir lo que deseen.
+
+### Convención Constitucional
+
+- [Archivo Transmisiones](https://convencion.tv/api/media?limit=0): API del sitio de streaming de la Convención Constitucional. Se puede usar el parámetro `limit=0` para obtener todos los videos.
 
 ### Transporte
 - [BIP](https://www.npmjs.com/package/bip): Get balance of bip card (Chile) by scrapping http://www.tarjetabip.cl/
@@ -58,7 +62,7 @@
 ### Mapas / Geocodificación
 
 - [API Planos.cl](http://apiplanos.amarillas.cl/): API Planos.cl de hibu está conformada por clases desarrolladas en lenguaje Javascript.
-- [API de Mapas y Geocodificación de Mapcity](http://api.mapcity.com/docs/tutorial.php): La API de MapCity es una extensión de Openlayers y ExtCore. Los tipos básicos de la API y los controles son derivados de los tipos y controles de OpenLayers, por lo tanto la mayoría de las funciones de OpenLayers aplican a las funciones de la API. 
+- [API de Mapas y Geocodificación de Mapcity](http://api.mapcity.com/docs/tutorial.php): La API de MapCity es una extensión de Openlayers y ExtCore. Los tipos básicos de la API y los controles son derivados de los tipos y controles de OpenLayers, por lo tanto la mayoría de las funciones de OpenLayers aplican a las funciones de la API.
 
 
 ### Entretención y ocio
