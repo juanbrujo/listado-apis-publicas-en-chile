@@ -25,6 +25,7 @@
 - [Feriados Legales en Chile](https://www.feriadosapp.com/api/): API sin restricciones y costos, que contiene todos los feriados legales de Chile.
 - [Turnos de Farmacia](http://datos.gob.cl/dataset/farmacias-en-chile): URL para obtener en formato JSON el listado de farmacias del país y sus turnos nocturnos legales, directamente desde FARMANET del Ministerio de Salud.
 - [API REST del Congreso](http://congresorest.appspot.com/): Servicio Open Source y totalmente gratuito que mapea el contenido generado por el congreso para que desarrolladores puedan construir lo que deseen.
+- [API Convencion Constitucional](https://www.cconstituyente.cl/datosabiertos/): Datos abiertos convención Constitucional.
 
 ### Transporte
 - [BIP](https://www.npmjs.com/package/bip): Get balance of bip card (Chile) by scrapping http://www.tarjetabip.cl/
