@@ -25,6 +25,8 @@
 - [Feriados en Chile 2017](https://feriados-cl-api.herokuapp.com/): API con info de feriados en Chile año 2017.
 - [Feriados Legales en Chile](https://www.feriadosapp.com/api/): API sin restricciones y costos, que contiene todos los feriados legales de Chile.
 - [Turnos de Farmacia](http://datos.gob.cl/dataset/farmacias-en-chile): URL para obtener en formato JSON el listado de farmacias del país y sus turnos nocturnos legales, directamente desde FARMANET del Ministerio de Salud.
+- [WS para gestión de toma de muestras](https://tomademuestras.apidocs.openagora.org/): Caso de uso: Implementación de ejemplo de conexión y consumo de APIs REST para seguimiento y trazabilidad de muestras para SARS-COV-2 del Ministerio de Salud. [Enlace](https://github.com/jdeloshoyos/api-covid-minsal)
+
 
 ### Transporte
 - [BIP](https://www.npmjs.com/package/bip): Get balance of bip card (Chile) by scrapping http://www.tarjetabip.cl/
@@ -65,10 +67,6 @@
 ### Clima
 
 - [API Tiempo Meteored.cl](http://api.meteored.cl/): La Api de Meteored.cl es una aplicación con la que usted puede obtener la predicción meteorológica de las localidades que desee a diario.
-
-
-### Salud
-- [WS para gestión de toma de muestras](https://tomademuestras.apidocs.openagora.org/): Caso de uso: Implementación de ejemplo de conexión y consumo de APIs REST para seguimiento y trazabilidad de muestras para SARS-COV-2 del Ministerio de Salud. [Enlace](https://github.com/jdeloshoyos/api-covid-minsal)
 
 ---
 
