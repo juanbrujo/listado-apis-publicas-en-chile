@@ -24,12 +24,15 @@
 - [Correos Chile API](https://www.easypost.com/correos-chile-api.html): EasyPost is a multi-carrier shipping solution. The EasyPost API is one integration point for 60+ carriers, including Correos Chile.
 - [Feriados Legales en Chile](https://www.feriadosapp.com/api/): API sin restricciones y costos, que contiene todos los feriados legales de Chile.
 - [Turnos de Farmacia](http://datos.gob.cl/dataset/farmacias-en-chile): URL para obtener en formato JSON el listado de farmacias del país y sus turnos nocturnos legales, directamente desde FARMANET del Ministerio de Salud.
+- [WS para gestión de toma de muestras](https://tomademuestras.apidocs.openagora.org/): Caso de uso: Implementación de ejemplo de conexión y consumo de APIs REST para seguimiento y trazabilidad de muestras para SARS-COV-2 del Ministerio de Salud. [Enlace](https://github.com/jdeloshoyos/api-covid-minsal)
 - [API REST del Congreso](http://congresorest.appspot.com/): Servicio Open Source y totalmente gratuito que mapea el contenido generado por el congreso para que desarrolladores puedan construir lo que deseen.
 - [Archivo Transmisiones Convención Constitucional](https://convencion.tv/api/media?limit=0): API del sitio de streaming de la Convención Constitucional. Se puede usar el parámetro `limit=0` para obtener todos los videos.
+
 
 ### Transporte
 
 - [BIP](https://xor.cl/api/red/): Get your BIP balance, via xor.cl API
+
 
 ### Economía
 
@@ -41,6 +44,7 @@
 - [queAFP](https://queafp.cl/api): API de datos de las AFP.
 - [API CMF](https://api.cmfchile.cl): API de la "Comisión para el Mercado Financiero - Bancos e Instituciones Financieras" para obtener diversos datos de indicadores financieros y reportes bancarios de Chile, tanto al día como históricos en formato JSON y XML.
 - [queTalMiAfp](https://www.quetalmiafp.cl/AccederCuotas): API de los valores de las coutas de las AFP, gratuita.
+
 
 ### Medios de Pago
 
@@ -55,6 +59,7 @@
 - [API Sismología U. de Chile.](https://e.xor.cl/posts/apis/#api-sismolog%C3%ADa-u-de-chile): Scrapping de la página del Centro Sismológico Nacional de la U. de Chile, que permite obtener en un formato amigable información de los sismos de cualquier fecha.
 - [Chile Alerta - Api](https://github.com/TBMSP/ChileAlertaApi): Boletines de Tsunami en Chile, Últimos sismos en Chile y Últimos sismos en países específicos y el Mundo. Diferentes fuentes de información además de software gratuito en el sitio web de servicios de la App Chile Alerta.
 - [api-sismologia-chile](https://api-sismologia-chile.herokuapp.com/): Últimos 15 sismos en Chile con sus respectivos mapas. Próximamente acceso a registros anteriores.
+
 
 ### Mapas / Geocodificación
 
@@ -71,6 +76,7 @@
 
 - [API Tiempo Meteored.cl](http://api.meteored.cl/): La Api de Meteored.cl es una aplicación con la que usted puede obtener la predicción meteorológica de las localidades que desee a diario.
 - [JSON Calidad del Aire Chile](https://sinca.mma.gob.cl/index.php/json/listadomapa2k19/): El Sistema de Información Nacional de Calidad del Aire provee este JSON donde muestran información en tiempo real de las estaciones de todo el país.
+
 
 ### Otros
 
