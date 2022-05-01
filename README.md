@@ -51,7 +51,7 @@
 
 ### Sistemas de Alerta
 
-- [Sismos Chile](https://api.gael.cl/general/public/sismos): Últimos sismos en Chile.
+- [Sismos Chile](https://api.gael.cloud/general/public/sismos): Últimos sismos en Chile.
 - [API Sismología U. de Chile.](https://e.xor.cl/posts/apis/#api-sismolog%C3%ADa-u-de-chile): Scrapping de la página del Centro Sismológico Nacional de la U. de Chile, que permite obtener en un formato amigable información de los sismos de cualquier fecha.
 - [Chile Alerta - Api](https://github.com/TBMSP/ChileAlertaApi): Boletines de Tsunami en Chile, Últimos sismos en Chile y Últimos sismos en países específicos y el Mundo. Diferentes fuentes de información además de software gratuito en el sitio web de servicios de la App Chile Alerta.
 - [api-sismologia-chile](https://api-sismologia-chile.herokuapp.com/): Últimos 15 sismos en Chile con sus respectivos mapas. Próximamente acceso a registros anteriores.
