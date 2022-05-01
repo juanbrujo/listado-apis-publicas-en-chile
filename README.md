@@ -28,7 +28,7 @@
 - [API Convencion Constitucional](https://www.cconstituyente.cl/datosabiertos/): Datos abiertos convención Constitucional.
 
 ### Transporte
-- [BIP](https://www.npmjs.com/package/bip): Get balance of bip card (Chile) by scrapping http://www.tarjetabip.cl/
+- [BIP](https://xor.cl/api/red/): Get your BIP balance, via xor.cl API
 
 
 ### Economía
