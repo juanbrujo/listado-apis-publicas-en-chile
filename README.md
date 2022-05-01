@@ -9,10 +9,10 @@
 
 - [API Biblioteca del Congreso](http://www.leychile.cl/Consulta/legislacion_abierta_web_service) Leyes, Proyectos de Ley y Normas.
 - [API Mercado Público](http://api.mercadopublico.cl/): Todo lo que necesitas es estar conectado con los servicios de información disponibles en api.mercadopublico.cl para crear notificaciones y estar siempre actualizado de los negocios con el Estado.
-- [API División Político Administrativa](http://apis.modernizacion.cl/dpa/#): Permite obtener Regiones, Provincias y Comunas.
+- [API División Político Administrativa](http://apis.digital.gob.cl/dpa/): Permite obtener Regiones, Provincias y Comunas.
 - [API Portal ChileAtiende](https://www.chileatiende.gob.cl/desarrolladores): API del Portal de Servicios del Estado - ChileAtiende.
 - [Plataforma Ley de Lobby](https://www.leylobby.gob.cl/docs.html) La API de la plataforma Ley de Lobby implementada para el Gobierno de Chile, es la interfaz para programadores que permite integrar los contenidos de este portal en tu sitio web.
-- [API Energía Abierta - Comisión Nacional de Energía](http://datos.energiaabierta.cl/developers/): API permite el acceso directo a los datos publicados en el sitio de datos abiertos de Comision Nacional de Energía. 
+- [API Energía Abierta - Comisión Nacional de Energía](http://datos.energiaabierta.cl/developers/): API permite el acceso directo a los datos publicados en el sitio de datos abiertos de Comision Nacional de Energía.
 - [API Comisión Nacional de Energía](http://api.cne.cl/): Provee el público acceso a la información que se genera dentro de la CNE considerando sus distintos sistemas de información. Usado en [Bencina en línea](http://www.bencinaenlinea.cl/)
 - [API Datos Peñalolen - Municipalidad de Peñalolen](http://datos.penalolen.cl/developers/): API que permite el acceso directo a los datos publicados en el sitio de datos abiertos de Peñalolén.
 - [API Datos Providencia - Municipalidad de Providencia](http://datos.providencia.cl/developers/): API que permite el acceso directo a los datos publicados en el sitio de datos abiertos de la Municipalidad de Providencia.
@@ -22,14 +22,16 @@
 - [Seguimiento de pedidos de Correos de Chile](https://github.com/josemontesp/correos-chile-npm): Módulo npm para hacer el seguimiento de uno o más pedidos de Correos de Chile.
 - [Correos Chile Tracking API](https://www.aftership.com/docs/correos-chile-tracking-api): AfterShip Restful JSON APIs and webhooks allow developers to add Correos Chile tracking function easily. Support APIs Client Libraries for PHP, Java, Node.js, Python, .NET, Ruby.
 - [Correos Chile API](https://www.easypost.com/correos-chile-api.html): EasyPost is a multi-carrier shipping solution. The EasyPost API is one integration point for 60+ carriers, including Correos Chile.
-- [Feriados en Chile 2017](https://feriados-cl-api.herokuapp.com/): API con info de feriados en Chile año 2017.
 - [Feriados Legales en Chile](https://www.feriadosapp.com/api/): API sin restricciones y costos, que contiene todos los feriados legales de Chile.
 - [Turnos de Farmacia](http://datos.gob.cl/dataset/farmacias-en-chile): URL para obtener en formato JSON el listado de farmacias del país y sus turnos nocturnos legales, directamente desde FARMANET del Ministerio de Salud.
 - [WS para gestión de toma de muestras](https://tomademuestras.apidocs.openagora.org/): Caso de uso: Implementación de ejemplo de conexión y consumo de APIs REST para seguimiento y trazabilidad de muestras para SARS-COV-2 del Ministerio de Salud. [Enlace](https://github.com/jdeloshoyos/api-covid-minsal)
+- [API REST del Congreso](http://congresorest.appspot.com/): Servicio Open Source y totalmente gratuito que mapea el contenido generado por el congreso para que desarrolladores puedan construir lo que deseen.
+- [Archivo Transmisiones Convención Constitucional](https://convencion.tv/api/media?limit=0): API del sitio de streaming de la Convención Constitucional. Se puede usar el parámetro `limit=0` para obtener todos los videos.
 
 
 ### Transporte
-- [BIP](https://www.npmjs.com/package/bip): Get balance of bip card (Chile) by scrapping http://www.tarjetabip.cl/
+
+- [BIP](https://xor.cl/api/red/): Get your BIP balance, via xor.cl API
 
 
 ### Economía
@@ -39,34 +41,47 @@
 - [API SBIF](http://api.sbif.cl/index.html): La API de SBIF permite obtener información de manera directa desde la base de datos del sitio web utilizando los servicios web provistos en esta plataforma.
 - [Buda.com](https://api.buda.com/): La API REST de [Buda.com](https://www.buda.com/), exchange de criptomonedas por moneda local en Chile, Colombia, Perú y Argentina. Permite el manejo de ordenes de compra/venta, abonos/retiros e información del mercado en tiempo real.
 - [BCI](https://developers.bci.cl/): API públicas del Banco de Crédito e Inversiones. Permite obtener información sobre cuentas, indicadores económicos, información del banco, entre otros.
+- [queAFP](https://queafp.cl/api): API de datos de las AFP.
+- [API CMF](https://api.cmfchile.cl): API de la "Comisión para el Mercado Financiero - Bancos e Instituciones Financieras" para obtener diversos datos de indicadores financieros y reportes bancarios de Chile, tanto al día como históricos en formato JSON y XML.
+- [queTalMiAfp](https://www.quetalmiafp.cl/AccederCuotas): API de los valores de las coutas de las AFP, gratuita.
 
 
 ### Medios de Pago
 
 - [Khipu](https://khipu.com/page/api-para-integradores): API REST para crear cobros y recibir pagos con Khipu.
 - [Flow](https://www.flow.cl/apiFlow.php): Flow es una plataforma de pagos online que te permite pagar y recibir pagos de cualquier persona usando tarjetas de credito o débito.
+- [Kushki](https://docs.kushkipagos.com/api): Vende de forma global y recibe dinero en tu moneda local. Conecta distintos medios de pago en cada país con una sola integración.
 
 
 ### Sistemas de Alerta
 
-- [Sismos Chile](https://api.gael.cl/general/public/sismos): Últimos sismos en Chile.
-- [Chile Alerta - Api](https://api.gael.cl/general/public/sismos): Boletines de Tsunami en Chile, Últimos sismos en Chile y Últimos sismos en países específicos y el Mundo.
+- [Sismos Chile](https://api.gael.cloud/general/public/sismos): Últimos sismos en Chile.
+- [API Sismología U. de Chile.](https://e.xor.cl/posts/apis/#api-sismolog%C3%ADa-u-de-chile): Scrapping de la página del Centro Sismológico Nacional de la U. de Chile, que permite obtener en un formato amigable información de los sismos de cualquier fecha.
+- [Chile Alerta - Api](https://github.com/TBMSP/ChileAlertaApi): Boletines de Tsunami en Chile, Últimos sismos en Chile y Últimos sismos en países específicos y el Mundo. Diferentes fuentes de información además de software gratuito en el sitio web de servicios de la App Chile Alerta.
+- [api-sismologia-chile](https://api-sismologia-chile.herokuapp.com/): Últimos 15 sismos en Chile con sus respectivos mapas. Próximamente acceso a registros anteriores.
 
 
 ### Mapas / Geocodificación
 
 - [API Planos.cl](http://apiplanos.amarillas.cl/): API Planos.cl de hibu está conformada por clases desarrolladas en lenguaje Javascript.
-- [API de Mapas y Geocodificación de Mapcity](http://api.mapcity.com/docs/tutorial.php): La API de MapCity es una extensión de Openlayers y ExtCore. Los tipos básicos de la API y los controles son derivados de los tipos y controles de OpenLayers, por lo tanto la mayoría de las funciones de OpenLayers aplican a las funciones de la API. 
+- [API de Mapas y Geocodificación de Mapcity](http://api.mapcity.com/docs/tutorial.php): La API de MapCity es una extensión de Openlayers y ExtCore. Los tipos básicos de la API y los controles son derivados de los tipos y controles de OpenLayers, por lo tanto la mayoría de las funciones de OpenLayers aplican a las funciones de la API.
 
 
 ### Entretención y ocio
 
-- [Horóscopo Yolanda Sultana](https://adderou.cl/api-horoscopo-de-yolanda-sultana/): Obtiene el horóscopo del día desde [Login.cl](http://www.login.cl/). No hay forma de obtener horóscopos anteriores, porque es de mala suerte.
+- [Horóscopo Yolanda Sultana](https://e.xor.cl/posts/apis/#t%C3%ADa-yoli-as-a-service-tyaas): Obtiene el horóscopo del día desde [Login.cl](http://www.login.cl/). No hay forma de obtener horóscopos anteriores, porque es de mala suerte.
 
 
 ### Clima
 
 - [API Tiempo Meteored.cl](http://api.meteored.cl/): La Api de Meteored.cl es una aplicación con la que usted puede obtener la predicción meteorológica de las localidades que desee a diario.
+- [JSON Calidad del Aire Chile](https://sinca.mma.gob.cl/index.php/json/listadomapa2k19/): El Sistema de Información Nacional de Calidad del Aire provee este JSON donde muestran información en tiempo real de las estaciones de todo el país.
+
+
+### Otros
+
+- [🇨🇱 Chilean Birds 🐦 ](https://aves.ninjas.cl/api/birds): API con información sobre Aves de Chile usando datos de [Buscaves.cl](http://buscaves.cl/).
+- [LibreAPI](https://libreapi.cl): LibreAPI es una API multipropósito, gratuita y de código abierto que ofrece busqueda de RUTs, información meteorológica, conversión de divisas, datos económicos y más. Docs [EN](http://docs.libreapi.cl/en/)/[ES](http://docs.libreapi.cl/es/).
 
 ---
 
