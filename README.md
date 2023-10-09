@@ -74,7 +74,7 @@
 
 ### Entretención y ocio
 
-- [Horóscopo Yolanda Sultana](https://e.xor.cl/posts/apis/#t%C3%ADa-yoli-as-a-service-tyaas): Obtiene el horóscopo del día desde [Login.cl](http://www.login.cl/). No hay forma de obtener horóscopos anteriores, porque es de mala suerte.
+- ~[Horóscopo Yolanda Sultana](https://e.xor.cl/posts/apis/#t%C3%ADa-yoli-as-a-service-tyaas): Obtiene el horóscopo del día desde [Login.cl](http://www.login.cl/). No hay forma de obtener horóscopos anteriores, porque es de mala suerte.~ [DEPRECATED]
 
 
 ### Clima
