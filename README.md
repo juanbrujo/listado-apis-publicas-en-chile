@@ -6,6 +6,16 @@
 
 <a href="https://www.buymeacoffee.com/juanbrujo"><img src="https://i.imgur.com/Opq7fSe.png" width="150"></a>
 
+---
+
+#### Cómo Aportar:
+
+Seguir el siguiente formato:
+````
+- [Nombre / Título sitio web](URL documentación API): Descripción corta de qué se trata este servicio, en general se encuentra en la misma URL ingresada anteriormente.
+````
+
+---
 
 ### Servicios Públicos / Gobierno
 
@@ -91,12 +101,3 @@
 - [🇨🇱 Chilean Birds 🐦 ](https://aves.ninjas.cl/api/birds): API con información sobre Aves de Chile usando datos de [Buscaves.cl](http://buscaves.cl/).
 - [LibreAPI](https://libreapi.cl): LibreAPI es una API multipropósito, gratuita y de código abierto que ofrece busqueda de RUTs, información meteorológica, conversión de divisas, datos económicos y más. Docs [EN](http://docs.libreapi.cl/en/)/[ES](http://docs.libreapi.cl/es/).
 - [🐶🐇 Plataforma de adopción animal 🐾 Huachitos](https://huachitos.cl/docs):  API abierta con listado de los animales disponibles para adopción, encontrados o perdidos y los equipos públicos en la plataforma, ofreciendo distintos endpoints por región, comuna o equipo/fundación.
-
----
-
-#### Cómo Aportar:
-
-Seguir el siguiente formato:
-````
-- [Nombre / Título sitio web](URL documentación API): Descripción corta de qué se trata este servicio, en general se encuentra en la misma URL ingresada anteriormente.
-````
