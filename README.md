@@ -44,7 +44,7 @@ Seguir el siguiente formato:
 
 ### Transporte
 
-- [BIP](https://xor.cl/api/red/): Get your BIP balance, via xor.cl API
+- ~[BIP](https://xor.cl/api/red/): Get your BIP balance, via xor.cl API.~ [DEPRECATED]
 
 
 ### Economía
@@ -94,7 +94,7 @@ Seguir el siguiente formato:
 
 
 ### Otros
--  [Rutificador](https://rutificador.porsilapongo.cl/):	Pequeño servicio REST que nos permite obtener los datos de una persona buscando a través de su nombre o rut.
+-  ~[Rutificador](https://rutificador.porsilapongo.cl/):	Pequeño servicio REST que nos permite obtener los datos de una persona buscando a través de su nombre o rut.~ [DEPRECATED]
 - [RAE](https://rae.porsilapongo.cl/): Api-REST que extrae informacion desde la RAE (Real Academia española) el significado de una palabra.
 - [ByPassCors](https://bypasscors.porsilapongo.cl/): Crea una solicitud http la cual incluye los encabezados CORS en la respuesta con el fin de bypasear y/o saltar los bloqueos de extraccion de datos.
 
