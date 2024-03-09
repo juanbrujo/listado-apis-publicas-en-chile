@@ -58,7 +58,7 @@ Seguir el siguiente formato:
 - [API CMF](https://api.cmfchile.cl): API de la "Comisión para el Mercado Financiero - Bancos e Instituciones Financieras" para obtener diversos datos de indicadores financieros y reportes bancarios de Chile, tanto al día como históricos en formato JSON y XML.
 - [queTalMiAfp](https://www.quetalmiafp.cl/AccederCuotas): API de los valores de las cuotas de las AFP, gratuita.
 - [API BDE: Bases de Datos Estadísticos del Banco Central](https://si3.bcentral.cl/estadisticas/Principal1/web_services/index.htm): API BDE del Banco Central de Chile. Se adjuntan códigos, manuales y documentación para el acceso, ejemplos utilizando Python, R y C#, así como la documentación de las APIs, junto a las condiciones de uso.
-
+- [DolarApi.com](https://dolarapi.com/docs/chile/): API para obtener el precio del Dólar y otras Monedas en Chile.
 
 ### Medios de Pago
 
