@@ -60,6 +60,7 @@ Seguir el siguiente formato:
 - [API BDE: Bases de Datos Estadísticos del Banco Central](https://si3.bcentral.cl/estadisticas/Principal1/web_services/index.htm): API BDE del Banco Central de Chile. Se adjuntan códigos, manuales y documentación para el acceso, ejemplos utilizando Python, R y C#, así como la documentación de las APIs, junto a las condiciones de uso.
 - [DolarApi.com](https://dolarapi.com/docs/chile/): API para obtener el precio del Dólar y otras Monedas en Chile.
 - [Bolsa de Santiago API's](https://startup.bolsadesantiago.com/): Conoce las API que la Bolsa de Santiago tiene disponible para developers.
+- [SII - Valores Económicos](https://zeus.sii.cl/admin/rss/sii_ind_rss.xml): RSS con valores diarios de dólar, UF y mensual de la UTM.
 
 ### Medios de Pago
 
