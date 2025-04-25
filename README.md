@@ -94,7 +94,9 @@ Seguir el siguiente formato:
 
 - [API Tiempo Meteored.cl](http://api.meteored.cl/): La Api de Meteored.cl es una aplicación con la que usted puede obtener la predicción meteorológica de las localidades que desee a diario.
 - [JSON Calidad del Aire Chile](https://sinca.mma.gob.cl/index.php/json/listadomapa2k19/): El Sistema de Información Nacional de Calidad del Aire provee este JSON donde muestran información en tiempo real de las estaciones de todo el país.
-
+- [API de Climatología de la Dirección Meteorológica de Chile](https://climatologia.meteochile.gob.cl): Proporciona datos meteorológicos en tiempo real y registros históricos de estaciones automáticas en Chile, accesibles en formato JSON para integración en aplicaciones.
+- [API de ARClim (Atlas de Riesgo Climático)](https://arclim.mma.gob.cl/atlas/api/): Ofrece acceso a indicadores climáticos históricos y proyectados, junto con capas geográficas y atributos asociados, facilitando análisis de riesgos climáticos en Chile.
+- [API de RedMeteo (Red Meteorológica Aficionada de Chile)](https://redmeteo.cl/api.html):Permite obtener observaciones meteorológicas recientes y metadatos básicos de estaciones ciudadanas en Chile, actualizados cada 5 minutos en formatos JSON o CSV.
 
 ### Otros
 -  ~[Rutificador](https://rutificador.porsilapongo.cl/):	Pequeño servicio REST que nos permite obtener los datos de una persona buscando a través de su nombre o rut.~ [DEPRECATED]
