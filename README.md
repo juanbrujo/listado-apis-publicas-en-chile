@@ -50,6 +50,7 @@ Seguir el siguiente formato:
 ### Economía
 
 - [Indicadores económicos diarios](http://mindicador.cl/): Este es un servicio open source (web service) que entrega los principales indicadores económicos para Chile en formato JSON. Tanto los indicadores diarios como históricos para que desarrolladores puedan utilizarlos en sus aplicaciones o sitios web.
+- [Indicadores económicos Chile](https://findic.cl/): API gratuita que entrega los principales indicadores económicos de Chile en formato JSON. Entrega resúmenes diarios y resultados históricos de cada indicador para usar libremente en aplicaciones o sitios web. También genera archivos CSV estáticos diarios para descarga, con todo el histórico de cada indicador.
 - [Indicadores del Día](http://indicadoresdeldia.cl/pages/code/): Los indicadores que entregamos en el servicio, aparecen en el sitio del Banco Central de Chile (http://www.bcentral.cl/), estos datos son actualizados cada una hora y servidos en diferentes formatos como xml, json, csv y javascript.
 - [API SBIF](http://api.sbif.cl/index.html): La API de SBIF permite obtener información de manera directa desde la base de datos del sitio web utilizando los servicios web provistos en esta plataforma.
 - [Buda.com](https://api.buda.com/): La API REST de [Buda.com](https://www.buda.com/), exchange de criptomonedas por moneda local en Chile, Colombia, Perú y Argentina. Permite el manejo de ordenes de compra/venta, abonos/retiros e información del mercado en tiempo real.
