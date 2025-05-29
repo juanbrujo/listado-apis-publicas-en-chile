@@ -82,6 +82,7 @@ Seguir el siguiente formato:
 ### Mapas / Geocodificación
 
 - [API Planos.cl](http://apiplanos.amarillas.cl/): API Planos.cl de hibu está conformada por clases desarrolladas en lenguaje Javascript.
+- [KaiNext Postal Code API](https://postal-code-api.kainext.cl/v1/api): API gratuita y pública para obtener códigos postales en Chile a partir de comuna, calle y número. Si el dato no está en la base, realiza scraping inteligente al sitio oficial de Correos de Chile, lo guarda y lo entrega en consultas futuras de forma casi instantánea. Además, expone endpoints para obtener las 16 regiones y 346 comunas del país, ordenadas y estructuradas. No requiere autenticación ni tokens, y está pensada para ser simple, útil y abierta para todos.
 - ~[API de Mapas y Geocodificación de Mapcity](http://api.mapcity.com/docs/tutorial.php): La API de MapCity es una extensión de Openlayers y ExtCore. Los tipos básicos de la API y los controles son derivados de los tipos y controles de OpenLayers, por lo tanto la mayoría de las funciones de OpenLayers aplican a las funciones de la API.~ [DEPRECATED]
 
 
