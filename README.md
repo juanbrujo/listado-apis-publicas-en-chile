@@ -94,7 +94,7 @@ Seguir el siguiente formato:
 
 ### Clima
 
-- [API Tiempo Meteored.cl](http://api.meteored.cl/): La Api de Meteored.cl es una aplicación con la que usted puede obtener la predicción meteorológica de las localidades que desee a diario.
+- ~[API Tiempo Meteored.cl](http://api.meteored.cl/): La Api de Meteored.cl es una aplicación con la que usted puede obtener la predicción meteorológica de las localidades que desee a diario.~ [DEPRECATED]
 - [JSON Calidad del Aire Chile](https://sinca.mma.gob.cl/index.php/json/listadomapa2k19/): El Sistema de Información Nacional de Calidad del Aire provee este JSON donde muestran información en tiempo real de las estaciones de todo el país.
 - [API de Climatología de la Dirección Meteorológica de Chile](https://climatologia.meteochile.gob.cl): Proporciona datos meteorológicos en tiempo real y registros históricos de estaciones automáticas en Chile, accesibles en formato JSON para integración en aplicaciones.
 - [API de ARClim (Atlas de Riesgo Climático)](https://arclim.mma.gob.cl/atlas/api/): Ofrece acceso a indicadores climáticos históricos y proyectados, junto con capas geográficas y atributos asociados, facilitando análisis de riesgos climáticos en Chile.
