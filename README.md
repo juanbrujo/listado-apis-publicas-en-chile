@@ -71,7 +71,7 @@ Seguir el siguiente formato:
 - [Flow](https://www.flow.cl/apiFlow.php): Flow es una plataforma de pagos online que te permite pagar y recibir pagos de cualquier persona usando tarjetas de credito o débito.
 - [Kushki](https://docs.kushkipagos.com/api): Vende de forma global y recibe dinero en tu moneda local. Conecta distintos medios de pago en cada país con una sola integración.
 - [Reveniu](https://docs.reveniu.com/): Con la API Reveniu puedes gestionar el cobro de suscripciones y pagos recurrentes de la forma más rápida y ad hoc al modelo de cobros de tu negocio.
-- [Fintoc](https://docs.fintoc.com/): API para iniciación de pagos mediante transferencias bancarias, tarjetas y conciliación de movimientos.
+- [Fintoc](https://docs.fintoc.com/reference/introduction): API para iniciación de pagos mediante transferencias bancarias, tarjetas y conciliación de movimientos.
 
 
 ### Sistemas de Alerta
