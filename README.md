@@ -41,7 +41,7 @@ Seguir el siguiente formato:
 - [WS para gestión de toma de muestras](https://tomademuestras.apidocs.openagora.org/): Caso de uso: Implementación de ejemplo de conexión y consumo de APIs REST para seguimiento y trazabilidad de muestras para SARS-COV-2 del Ministerio de Salud. [Enlace](https://github.com/jdeloshoyos/api-covid-minsal)
 - [API REST del Congreso](http://congresorest.appspot.com/): Servicio Open Source y totalmente gratuito que mapea el contenido generado por el congreso para que desarrolladores puedan construir lo que deseen.
 - [Archivo Transmisiones Convención Constitucional](https://convencion.tv/api/media?limit=0): API del sitio de streaming de la Convención Constitucional. Se puede usar el parámetro `limit=0` para obtener todos los videos.
-
+- [Api para consulta de Promociones y Descuentos Semanales](https://promociones.gadget.app/): Servicio que hace disponible un listado de descuentos, promociones y cupones, diferenciadas por fecha, banco y zona en la que aplica, la información se actualiza cada día con datos reales.
 
 ### Transporte
 
