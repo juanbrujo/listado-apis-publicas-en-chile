@@ -46,6 +46,8 @@ Seguir el siguiente formato:
 ### Transporte
 
 - ~[BIP](https://xor.cl/api/red/): Get your BIP balance, via xor.cl API.~ [DEPRECATED]
+- [RedTransporteAPI](https://github.com/iiroak/RedTransporteAPI): API REST y CLI de transporte público de Santiago de Chile, con datos GTFS, paraderos, recorridos, planificación de viajes y predicciones en tiempo real. Requiere ser hosteada/desplegada para exponer el servicio HTTP.
+- [RedTransporteMCP](https://github.com/iiroak/RedTransporteMCP): Servidor MCP de solo lectura para consultar RedTransporteAPI desde clientes de IA como ChatGPT, Claude, Codex u OpenCode. Requiere hostear/desplegar el servidor MCP y una instancia accesible por HTTPS; además consume una instancia hosteada de RedTransporteAPI.
 
 
 ### Economía
