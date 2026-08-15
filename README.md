@@ -30,7 +30,6 @@ Seguir el siguiente formato:
 - ~[API Datos Providencia - Municipalidad de Providencia](http://datos.providencia.cl/developers/): API que permite el acceso directo a los datos publicados en el sitio de datos abiertos de la Municipalidad de Providencia.~ [DEPRECATED]
 - [Compras Transparentes](http://www.comprastransparentes.cl/api): Desarrollada en Falcon y Python, contiene todos los detalles de la API de Compras Transparentes que permite explorar las transacciones entre el Estado de Chile y las empresas, las cuales se efectúan a través de la plataforma de compras públicas.
 - [ChileCompra](https://www.chilecompra.cl/api/): La API (Interfaz de Programación de Aplicaciones) de Mercado Público permite a desarrolladores y empresas acceder y consumir directamente datos de las compras públicas que realizan más de 1.000 entidades del Estado a través de la plataforma mercadopublico.cl. En particular accede a datos en tiempo real sobre licitaciones, órdenes de compra, compradores y proveedores.
-- ~[Portal de Datos Públicos](http://es.wiki.junar.com/index.php/Recursos_datos_gob_cl_API): La versión actual de la API es 1.0. La mayoría de los métodos retorna sus resultados en formato JSON, excepto el metodo invoke donde puede elegirse entre varios formatos de salida. Cada key obtenida para la API del Portal de Datos Públicos del Gobierno de Chile está limitada a 10.000 reqs/mes y 1 req/seg.~ [DEPRECATED]
 - [Seguimiento de pedidos de Correos de Chile](https://github.com/josemontesp/correos-chile-npm): Módulo npm para hacer el seguimiento de uno o más pedidos de Correos de Chile.
 - [Correos Chile Tracking API](https://www.aftership.com/docs/correos-chile-tracking-api): AfterShip Restful JSON APIs and webhooks allow developers to add Correos Chile tracking function easily. Support APIs Client Libraries for PHP, Java, Node.js, Python, .NET, Ruby.
 - [Correos Chile API](https://www.easypost.com/correos-chile-api.html): EasyPost is a multi-carrier shipping solution. The EasyPost API is one integration point for 60+ carriers, including Correos Chile.
@@ -93,7 +92,7 @@ Seguir el siguiente formato:
 
 ### Entretención y ocio
 
-- [Hosróscopo devsChile](https://horoscopo.devschile.cl/): API y bot de horóscopo diario en español neutro para la comunidad devsChile: la versión clásica y la versión developer, generadas por IA cada día. Versión libre y versión de pago.
+- [Horóscopo devsChile](https://horoscopo.devschile.cl/): API y bot de horóscopo diario en español neutro para la comunidad devsChile: la versión clásica y la versión developer, generadas por IA cada día. Versión libre y versión de pago.
 
 
 ### Clima
