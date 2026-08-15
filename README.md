@@ -93,7 +93,7 @@ Seguir el siguiente formato:
 
 ### Entretención y ocio
 
-- ~[Horóscopo Yolanda Sultana](https://e.xor.cl/posts/apis/#t%C3%ADa-yoli-as-a-service-tyaas): Obtiene el horóscopo del día desde [Login.cl](http://www.login.cl/). No hay forma de obtener horóscopos anteriores, porque es de mala suerte.~ [DEPRECATED]
+- [Hosróscopo devsChile](https://horoscopo.devschile.cl/): API y bot de horóscopo diario en español neutro para la comunidad devsChile: la versión clásica y la versión developer, generadas por IA cada día. Versión libre y versión de pago.
 
 
 ### Clima
