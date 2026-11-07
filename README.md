@@ -64,6 +64,7 @@ Seguir el siguiente formato:
 - [DolarApi.com](https://dolarapi.com/docs/chile/): API para obtener el precio del Dólar y otras Monedas en Chile.
 - [Bolsa de Santiago API's](https://startup.bolsadesantiago.com/): Conoce las API que la Bolsa de Santiago tiene disponible para developers.
 - [SII - Valores Económicos](https://zeus.sii.cl/admin/rss/sii_ind_rss.xml): RSS con valores diarios de dólar, UF y mensual de la UTM.
+- [Toolrail](https://toolrail.dev/es): API y MCP con UF, UTM, conversión UF/CLP, validación de RUT, días hábiles y feriados de Chile. Demo gratuita sin cuenta; uso de producción pagado por llamada (x402).
 
 ### Medios de Pago
 
