@@ -105,6 +105,11 @@ Seguir el siguiente formato:
 - [API de ARClim (Atlas de Riesgo Climático)](https://arclim.mma.gob.cl/atlas/api/): Ofrece acceso a indicadores climáticos históricos y proyectados, junto con capas geográficas y atributos asociados, facilitando análisis de riesgos climáticos en Chile.
 - [API de RedMeteo (Red Meteorológica Aficionada de Chile)](https://redmeteo.cl/api.html):Permite obtener observaciones meteorológicas recientes y metadatos básicos de estaciones ciudadanas en Chile, actualizados cada 5 minutos en formatos JSON o CSV.
 
+### Alimentación y nutrición
+
+- [Noms](https://noms.sh/docs): API REST de datos nutricionales: 3,7 M de alimentos y 298 mil marcas en 230 países, 177 nutrientes, 3,4 M de códigos de barras y 566 mil imágenes. Plan gratis, sin tarjeta.
+
+
 ### Otros
 -  ~[Rutificador](https://rutificador.porsilapongo.cl/):	Pequeño servicio REST que nos permite obtener los datos de una persona buscando a través de su nombre o rut.~ [DEPRECATED]
 -  ~[RAE](https://rae.porsilapongo.cl/): Api-REST que extrae informacion desde la RAE (Real Academia española) el significado de una palabra.~ [DEPRECATED]
