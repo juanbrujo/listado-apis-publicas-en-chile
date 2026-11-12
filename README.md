@@ -65,6 +65,7 @@ Seguir el siguiente formato:
 - [Bolsa de Santiago API's](https://startup.bolsadesantiago.com/): Conoce las API que la Bolsa de Santiago tiene disponible para developers.
 - [SII - Valores Económicos](https://zeus.sii.cl/admin/rss/sii_ind_rss.xml): RSS con valores diarios de dólar, UF y mensual de la UTM.
 - [Toolrail](https://toolrail.dev/es): API y MCP con UF, UTM, conversión UF/CLP, validación de RUT, días hábiles y feriados de Chile. Demo gratuita sin cuenta; uso de producción pagado por llamada (x402).
+- [API SII Chile - Webempresario](https://api-sii-chile.webempresario.com/documentacion/): Datos de más de 3.370.000 empresas chilenas por RUT desde el padrón del SII: razón social, actividades económicas, direcciones con coordenadas y vigencia. API REST en JSON y servidor MCP para Claude y ChatGPT. 25 consultas gratis al registrarse; luego paquetes prepago sin vencimiento.
 
 ### Medios de Pago
 
