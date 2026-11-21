@@ -46,7 +46,7 @@ Seguir el siguiente formato:
 
 - ~[BIP](https://xor.cl/api/red/): Get your BIP balance, via xor.cl API.~ [DEPRECATED]
 - [RedTransporteAPI](https://github.com/iiroak/RedTransporteAPI): API REST y CLI de transporte público de Santiago de Chile, con datos GTFS, paraderos, recorridos, planificación de viajes y predicciones en tiempo real. Requiere ser hosteada/desplegada para exponer el servicio HTTP.
-- [RedTransporteMCP](https://github.com/iiroak/RedTransporteMCP): Servidor MCP de solo lectura para consultar RedTransporteAPI desde clientes de IA como ChatGPT, Claude, Codex u OpenCode. Requiere hostear/desplegar el servidor MCP y una instancia accesible por HTTPS; además consume una instancia hosteada de RedTransporteAPI.
+- [RedTransporteMCP](https://github.com/iiroak/RedTransporte-GPT-MCP): Servidor MCP de solo lectura para consultar RedTransporteAPI desde clientes de IA como ChatGPT, Claude, Codex u OpenCode. Requiere hostear/desplegar el servidor MCP y una instancia accesible por HTTPS; además consume una instancia hosteada de RedTransporteAPI.
 
 
 ### Economía
@@ -71,17 +71,17 @@ Seguir el siguiente formato:
 
 - [BIN Lookup](https://teriko.cl/bin-lookup): Buscador de BINs chilenos (y extranjeros) con información actualizada.
 - [Khipu](https://khipu.com/page/api-para-integradores): API REST para crear cobros y recibir pagos con Khipu.
-- [Flow](https://www.flow.cl/apiFlow.php): Flow es una plataforma de pagos online que te permite pagar y recibir pagos de cualquier persona usando tarjetas de credito o débito.
+- [Flow](https://web.flow.cl/es-cl/api-de-integracion/): Flow es una plataforma de pagos online que te permite pagar y recibir pagos de cualquier persona usando tarjetas de credito o débito.
 - [Kushki](https://docs.kushkipagos.com/api): Vende de forma global y recibe dinero en tu moneda local. Conecta distintos medios de pago en cada país con una sola integración.
 - [Reveniu](https://docs.reveniu.com/): Con la API Reveniu puedes gestionar el cobro de suscripciones y pagos recurrentes de la forma más rápida y ad hoc al modelo de cobros de tu negocio.
-- [Fintoc](https://docs.fintoc.com/reference/introduction): API para iniciación de pagos mediante transferencias bancarias, tarjetas y conciliación de movimientos.
+- [Fintoc](https://docs.fintoc.com/api/fintoc-api/introduction): API para iniciación de pagos mediante transferencias bancarias, tarjetas y conciliación de movimientos.
 
 
 ### Sistemas de Alerta
 
 - [Sismos Chile](https://api.gael.cloud/general/public/sismos): Últimos sismos en Chile.
 - ~[API Sismología U. de Chile.](https://e.xor.cl/posts/apis/#api-sismolog%C3%ADa-u-de-chile): Scrapping de la página del Centro Sismológico Nacional de la U. de Chile, que permite obtener en un formato amigable información de los sismos de cualquier fecha.~ [DEPRECATED]
-- [Chile Alerta - Api](https://github.com/TBMSP/ChileAlertaApi): Boletines de Tsunami en Chile, Últimos sismos en Chile y Últimos sismos en países específicos y el Mundo. Diferentes fuentes de información además de software gratuito en el sitio web de servicios de la App Chile Alerta.
+- [Chile Alerta - Api](https://github.com/TBMSP/Chile-Alerta-API): Boletines de Tsunami en Chile, Últimos sismos en Chile y Últimos sismos en países específicos y el Mundo. Diferentes fuentes de información además de software gratuito en el sitio web de servicios de la App Chile Alerta.
 - [api-sismologia-chile](https://api-sismologia-chile.herokuapp.com/): Últimos 15 sismos en Chile con sus respectivos mapas. Próximamente acceso a registros anteriores.
 
 
@@ -113,4 +113,4 @@ Seguir el siguiente formato:
 - [🇨🇱 Chilean Birds 🐦 ](https://aves.ninjas.cl/api/birds): API con información sobre Aves de Chile usando datos de [Buscaves.cl](http://buscaves.cl/).
 -  ~[LibreAPI](https://libreapi.cl): LibreAPI es una API multipropósito, gratuita y de código abierto que ofrece busqueda de RUTs, información meteorológica, conversión de divisas, datos económicos y más. Docs [EN](http://docs.libreapi.cl/en/)/[ES](http://docs.libreapi.cl/es/).~ [DEPRECATED]
 - [🐶🐇 Plataforma de adopción animal 🐾 Huachitos](https://huachitos.cl/docs):  API abierta con listado de los animales disponibles para adopción, encontrados o perdidos y los equipos públicos en la plataforma, ofreciendo distintos endpoints por región, comuna o equipo/fundación.
-- [Un montón de API de uso libre](https://api.boostr.cl/): Accede libremente y de forma gratuita a muchas API útiles.
+- [Un montón de API de uso libre](https://boostr.cl/): Accede libremente y de forma gratuita a muchas API útiles.
